@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using MysticBoostTodo.Core.Interfaces;
 using MysticBoostTodo.Infrastructure.Data;
-using System;
+using MysticBoostTodo.Infrastructure.Repositories;
+using MysticBoostTodo.Infrastructure.Services;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
