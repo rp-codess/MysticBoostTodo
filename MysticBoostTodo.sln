@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticBoostTodo.Core", "Mys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticBoostTodo.Infrastructure", "MysticBoostTodo.Infrastructure\MysticBoostTodo.Infrastructure.csproj", "{A7F6402E-383F-40E4-BCF1-5676E37C5591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticBoostTodo.Tests", "MysticBoostTodo.Tests\MysticBoostTodo.Tests.csproj", "{60287BE1-3F0D-4270-B791-B00D85E906EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A7F6402E-383F-40E4-BCF1-5676E37C5591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F6402E-383F-40E4-BCF1-5676E37C5591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F6402E-383F-40E4-BCF1-5676E37C5591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60287BE1-3F0D-4270-B791-B00D85E906EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60287BE1-3F0D-4270-B791-B00D85E906EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60287BE1-3F0D-4270-B791-B00D85E906EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60287BE1-3F0D-4270-B791-B00D85E906EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
